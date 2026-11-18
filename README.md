@@ -1,7 +1,7 @@
 # DiDi · Calculadora de Budget Allocation (México) – v1
 
 ## Abrir la app
-**👉 [Abrir la app](https://REEMPLAZA-CON-TU-SUBDOMINIO.streamlit.app)**  
+**👉 [Abrir la app]([https://.streamlit.app](https://didimex.streamlit.app/))**  
 [![Abrir en Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://REEMPLAZA-CON-TU-SUBDOMINIO.streamlit.app)
 
 > Después de desplegar, Streamlit te da la URL (en *Advanced settings* puedes elegir el subdominio). Reemplaza `REEMPLAZA-CON-TU-SUBDOMINIO` en estas dos líneas (botón de lápiz en GitHub) y haz commit. Si la app tiene `APP_PASSWORD`, pedirá contraseña al abrir.
